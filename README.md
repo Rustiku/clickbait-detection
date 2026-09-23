@@ -15,7 +15,7 @@ Hyperparameter) werden verglichen:
 - **Baseline:** TF-IDF + Logistic Regression / lineare SVM
 - **Transformer:** BERT, RoBERTa, ModernBERT (Fine-Tuning)
 
-| Modell | F1 Clickbait (Testset, Seed 42) | F1 über 3 Seeds |
+| Modell | F1 Clickbait (Testset, Seed 42) | F1 mit Streuung |
 |---|---|---|
 | TF-IDF + LogReg | 0,538 | 5-fold CV: 0,536 ± 0,017 |
 | TF-IDF + SVM | 0,543 | 5-fold CV: 0,525 ± 0,020 |
