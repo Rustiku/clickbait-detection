@@ -1,0 +1,488 @@
+id,headline,target_title,truth_mean,label,pred,error_type,pattern
+809095866451709952,Introducing our first-ever tally of America's wealthiest celebrities:,America's Richest Celebrities 2016: George Lucas Leads Steven Spielberg And Oprah,0.86666666664,1,0,false_negative,other
+845645646317178881,An anti-Trump movement is calling for the boycott of these 36 DAPL-linked banks,An anti-Trump movement is calling for the boycott of these 36 DAPL-linked banks,0.66666666664,1,0,false_negative,curiosity_gap
+836955442408538112,"The new ""Beauty And The Beast"" features Disney’s first gay character","The New ""Beauty And The Beast"" Features Disney’s First Gay Character",0.46666666664,1,0,false_negative,other
+828216628194197504,She’s 59 and fit to jump from an airplane,She’s 59 and Fit to Jump From an Airplane,0.4666666666199999,0,1,false_positive,other
+848375128362811392,"The Trump administration banned laptops, so this airline is passing them out","The Trump Administration Banned Laptops, So One Airline Is Passing Them Out",0.33333333332,0,1,false_positive,curiosity_gap
+816366542908772352,E Ink unveils world's largest ePaper display #MashCES,E Ink unveils world's largest ePaper display at CES,0.5333333333,1,0,false_negative,other
+823924622169083906,The biggest #OscarNoms snubs and surprises  via @TODAYshow,No love for Tom Hanks or Amy Adams? See the biggest Oscar snubs and surprises,0.13333333332,0,1,false_positive,other
+851223180937228292,Selena Gomez &amp; The Weeknd snuggle up in sweet Instagram selfie,Selena Gomez & The Weeknd Snuggle Up in Sweet Instagram Selfie,0.79999999998,1,0,false_negative,other
+847139042256982020,Are you on track to reach your retirement goals? Find out:,Retirement Checkup,0.5333333333,0,1,false_positive,rhetorical_question
+839261649664036864,21 things you know if you live paycheck to paycheck,21 Things You Know If You Live Paycheck To Paycheck,0.59999999998,0,1,false_positive,listicle
+847049720451256321,This 'Game of Thrones' actor will feature in the British TV show you should be watching,This iconic 'Game of Thrones' actor will feature in 'Peaky Blinders' Season 4,0.3333333333,0,1,false_positive,direct_address
+814852634842722304,My dad is cross-dressing and Mum is bitter. What can I do to help?,My dad is cross-dressing and Mum is bitter. What can I do to help?,0.46666666664,0,1,false_positive,rhetorical_question
+844171777664323585,The faces of defeat from #MarchMadness  via @YahooSports,March sadness: Faces of defeat,0.3999999999799999,0,1,false_positive,other
+852866115403489282,EASTER VIOLENCE? Fugitive purportedly writes letter threatening churches,Joseph Jakubowski manhunt: Fugitive purportedly writes letter threatening violence on Easter Sunday ,0.59999999996,1,0,false_negative,rhetorical_question
+841145043863908353,This corgi went to a museum for his third birthday and he looked very happy,This Corgi Went To A Museum For His Third Birthday And He Looked Very Happy,0.46666666664,1,0,false_negative,curiosity_gap
+826608008490786816,How Neil Gorsuch became Donald Trump's Supreme Court nominee,How Neil Gorsuch became Donald Trump's Supreme Court nominee,0.53333333332,1,0,false_negative,other
+815777392341811200,You’re wrong if you don’t think chihuahuas are the best dogs on this good Earth,You’re Wrong If You Don’t Think Chihuahuas Are The Best Dogs On This Good Earth,0.66666666662,1,0,false_negative,direct_address
+818116200853098497,"Diego Luna found his son spilling ""Rogue One"" secrets to impress girls",Diego Luna Found His Son Spilling 'Rogue One' Secrets To Impress Girls,0.13333333332,0,1,false_positive,other
+829721185147568128,A complete guide to this weekend's sneaker releases,A Complete Guide to This Weekend's Sneaker Releases,0.59999999994,1,0,false_negative,curiosity_gap
+832201774677258240,Why Manchester By the Sea should win the best picture Oscar,Why Manchester By the Sea should win the best picture Oscar,0.5333333333,1,0,false_negative,curiosity_gap
+825793786706026497,Playing with dolls just ONCE can make girls think they need to be thin,"'Don’t give your children Barbies': Playing with dolls just ONCE can make girls think they need to be thin, researchers claim",0.3999999999599999,0,1,false_positive,other
+837182937493880835,'Something special' is happening for Game of Thrones season 7 launch,"Game of Thrones season 7 actor talks release date, ‘something special happening for the premiere’",0.7999999999599999,1,0,false_negative,other
+848460001261666304,Handle with care: readers' photos on the theme of tender,Handle with care: readers' photos on the theme of tender,0.59999999996,1,0,false_negative,other
+854481677141364742,"""Sassy and also substantial"": How Merriam-Webster stays relevant in national conversations",How Merriam-Webster stays relevant in national conversations,0.46666666664,1,0,false_negative,other
+808834611652468736,Civilians trapped in Aleppo share emotional goodbye messages,'This may be my last video': Civilians trapped inside the war-torn Syrian city post emotional goodbye messages on social media,0.79999999998,1,0,false_negative,other
+827373064572772352,A family found a rattlesnake in their toilet — then 23 more,A family found a rattlesnake in their toilet — then 23 more,0.4,0,1,false_positive,other
+811820923343011841,Elaborate designer handbags scheme lands preschool teacher in prison,Virginia Woman Sentenced to 30 Months in Counterfeit Designer Handbag Scheme,0.5333333333,0,1,false_positive,other
+810557270211883008,"""When Vladimir Putin was told ‘cut it out,’ I’m sure that [he] immediately stopped all cyber activity.""",McCain: Obama’s Lack of Leadership Causing ‘Unraveling of the World Order’,0.53333333328,1,0,false_negative,other
+820480348773580800,Trudeau throws some Grade-A shade at Trump,Justin Trudeau Throws Some Grade-A Shade At Donald Trump,0.4666666666199999,1,0,false_negative,other
+839506014458138625,Diana Quick: 'For the first time in my life I can have non-sexual relationships with men',Diana Quick: 'For the first time in my life I can have non-sexual relationships with men',0.46666666664,1,0,false_negative,other
+844217044530860033,White House defends President Trump’s 10 golf outings  via @YahooNews,White House defends President Trump’s golf habit and argues it’s different from Obama’s,0.46666666664,1,0,false_negative,other
+817057208848543744,Ryan Reynolds thinks new Wolverine film Logan is going to change film in one big way,Logan: Ryan Reynolds has seen Wolverine 3 and thinks it'll win Oscars,0.66666666664,1,0,false_negative,other
+852931997555142656,They were taking a #groupfie with a #selfie stick when slipped and fell off the running train. #DeathBySelfie,"Three Youths Fall While Trying To Take Selfie In A Moving Train, Crushed On The Track",0.1999999999799999,0,1,false_positive,other
+846240403464572928,Restaurant offers unique cellphone discount,Page Not Found - Yahoo,0.86666666664,1,0,false_negative,other
+833056914149953536,A record number of poor kids are eating breakfast — thanks to a program many conservatives hate,A record number of poor kids are eating breakfast — thanks to a program many conservatives hate,0.4666666666199999,1,0,false_negative,other
+819348494767058944,"The 3 worst currencies of 2017 show that politics, not economics, are driving markets","The Three Worst Currencies of 2017 Show That Politics, Not Economics, Are Driving Markets",0.33333333332,0,1,false_positive,other
+812122563333722112,The cardboard box that one engineer says will help you sleep on planes,Is resting your head on a BOX the best way to sleep on a plane? Rocket scientist spends two years inventing bizarre travel accessory  ,0.26666666664,0,1,false_positive,direct_address
+824898385098321920,The clock “conveys how close we are to destroying our civilization with #dangerous #technologies of our own making”,"Doomsday Clock Moves 30 Seconds Closer To Midnight, We Are Just Two-And-A-Half Minutes Away From Apocalypse!",0.59999999994,1,0,false_negative,other
+830520491068817408,Did the Warriors' official account diss Russell Westbrook on Twitter?,Did the Warriors Diss Russell Westbrook on Twitter Before Matchup With Kevin Durant?,0.7333333333,1,0,false_negative,rhetorical_question
+837013191129501698,Buddy is just trying to do him,"Buddy Hield's Side of the Story: It's Not About Becoming Steph, Replacing Boogie",0.26666666664,0,1,false_positive,other
+833179331727867904,This tiny camera could give micro-drones some amazing abilities  via @NBCNewsMACH,This Tiny Camera Could Give Micro-Drones Some Amazing Abilities,0.3333333333,0,1,false_positive,curiosity_gap
+827440044050898944,"U.K.’s Brexit plan? Prepare for failure, hope for success","U.K.’s Brexit Plan: Prepare for Failure, Hope for Success",0.13333333332,0,1,false_positive,rhetorical_question
+847693949040865282,"Teen wants to take his grandma to prom, but his high school says no",Teen wants to take grandma to prom -- his high school says no,0.59999999996,1,0,false_negative,other
+853250400773918723,Here's everything you should have in your car at all times,Here's everything you should have in your car at all times,0.3333333333,0,1,false_positive,direct_address
+819906906412163072,The big dilemma if senators reject Tillerson  via @YahooNews,A problem for senators hesitating over Trump nominees: The alternative might be worse,0.53333333328,1,0,false_negative,other
+831069404309880832,"£100,000 public money given to suspected illegal faith schools","£100,000 lottery funding given to suspected illegal faith schools",0.59999999996,1,0,false_negative,other
+818831011668602882,Warring neighbours delight the internet with their intense 'sign war',Warring neighbours delight internet with intense 'sign war',0.46666666664,1,0,false_negative,other
+841052439272919040,Wake up in the middle of the night worrying? New research explains what to do:,Don’t Worry If You Always Worry (It May Help You),0.46666666664,0,1,false_positive,rhetorical_question
+822968271292858368,Here are all the best signs from Women's Marches across America,61 Of The Greatest Signs From Women’s Marches Around The Country,0.4666666666199999,0,1,false_positive,other
+847154360790454272,"These gator pop-ups are happening way too frequently 😱
+
+🎥:",Giant Alligator Walks onto Golf Course During Celebrity Invitational Tournament,0.3999999999799999,0,1,false_positive,curiosity_gap
+828270692298797056,How tearing apart Nafta could wreak havoc on supply chains,One Tiny Widget’s Dizzying Journey Shows Just How Critical Nafta Has Become,0.3333333333,0,1,false_positive,other
+814551569404493824,7 bucket list holidays your family should take in 2017,Family holidays Seven bucket list holidays your family should take in 2017,0.53333333332,0,1,false_positive,listicle
+808710670200008704,The best #CarpoolKaraoke episodes of 2016,The Best Carpool Karaokes of 2016,0.26666666664,0,1,false_positive,other
+811266165456650242,"Here's what Southern Rail passengers are saying about the strike on Twitter - 30,000 tweets analysed","Here's what Southern Rail passengers are saying about the strike on Twitter - 30,000 tweets analysed",0.7333333333,1,0,false_negative,curiosity_gap
+855214757271539712,What's happening with Bitcoin and where it's heading next:,Why Bitcoin's Greatest Asset Could Also Spell Its Doom,0.13333333332,0,1,false_positive,curiosity_gap
+851475155889127424,This doll-like dog's eyes will melt your heart,"Meet Mango, The Adorable Pomeranian Who Will Just Melt Your Heart",0.2,0,1,false_positive,direct_address
+819969008866906112,5 lessons from Martin Luther King for Trump's America,5 Lessons From Martin Luther King Jr. To Apply To Trump's America,0.46666666666,0,1,false_positive,listicle
+849392554563051520,"My Super Sweet 16?
+
+Floyd throws a lavish party for his son and buys him a Mercedes-Benz","Floyd Mayweather Jr. Throws Lavish Party, Buys Mercedes for Son's 16th Birthday",0.13333333332,0,1,false_positive,rhetorical_question
+830876477377880066,This is not a drill: You can now intern for Barack and Michelle Obama.,This Is Not a Drill: You Can Now Intern for Barack and Michelle Obama,0.66666666662,1,0,false_negative,direct_address
+808270046061592577,"More leaks have confirmed specs and price of the two #Android smartphones
+@nokia #ThisIsUS","Rumoured Nokia D1C Android Phone To Be Priced At Rs 9999, More Specs Revealed",0.5333333333,1,0,false_negative,curiosity_gap
+824714163704496129,"Yes, really: '1984' is now sold out on Amazon","Yes, really: '1984' is now sold out on Amazon",0.59999999998,1,0,false_negative,other
+819937121200906241,A lot can happen in 65 years! Watch 65 years of the @TODAYshow fly by in 65 seconds,Watch 65 years of TODAY fly by in 65 seconds,0.3999999999599999,0,1,false_positive,other
+831623786025930753,"If we had to guess, Kendall Jenner &amp; A$AP Rocky are each other's Valentines","Kendall Jenner and ASAP Rocky Step Out Again, Continue to Play With Our Emotions",0.26666666666,0,1,false_positive,other
+807937985052192770,Dad slightly bemused to find his son's chocolate Santa Claus looks totally inappropriate,Dad slightly bemused to find his son's chocolate Santa Claus looks totally inappropriate The list,0.3333333333,0,1,false_positive,other
+817410156833148929,CES 2017: Your car wants to say hello. And that’s only the start.,Your car wants to say hello. And that’s only the start.,0.5333333333,0,1,false_positive,direct_address
+821804716883636229,"Even after an in-game fight, the Siena coach got his post-game handshakes...sort of
+
+🎥",Siena Coach Jimmy Patsos Shakes Imaginary Hands After Rider Walks Off Floor,0.59999999998,1,0,false_negative,other
+808599285352845312,Jeremy Corbyn's most powerful union supporter has just been challenged for his job,Jeremy Corbyn's biggest supporter Len McCluskey to be challenged for Unite union leadership,0.1999999999799999,0,1,false_positive,other
+815491304494891008,The Ethicist: Your sister is against vaccinating her son. Can you help him get vaccinated?,Your Sister Won’t Vaccinate Her Son. Can You Help Him? ,0.26666666664,0,1,false_positive,rhetorical_question
+840906664882651138,This year's IRS audits are bad news for the rich,This Year’s IRS Audits Are Bad News for the Rich,0.79999999998,1,0,false_negative,curiosity_gap
+852197167649390592,"With conventional grocers eating its lunch, Whole Foods is borrowing their tactics","Whole Foods Wanted to Be More Than a Supermarket, and Therein Lies the Problem ",0.66666666664,1,0,false_negative,other
+836329293408006145,Bug that plagues soldiers is enemy no. 1 on WHO's superbug list,WHO Superbug List: Enemy No. 1 Is Bug That Plagues Soldiers,0.66666666664,1,0,false_negative,other
+825146417756901376,Why 2017 is a pivotal year for K-pop,Why 2017 Is a Pivotal Year for K-Pop,0.59999999994,1,0,false_negative,curiosity_gap
+850356895969943555,"6-year-old kid busts out an impressive eurostep 😳
+
+🎥:",6-Year-Old Basketball Player Glides Past Defender with Impressive Eurostep,0.73333333332,1,0,false_negative,other
+833202456192364544,26 texts you’ll understand if you’ve ever texted a straight guy,26 Texts You’ll Understand If You’ve Ever Texted A Straight Guy,0.59999999998,0,1,false_positive,listicle
+839042843628822528,"Visually Impaired Malayalam Singer Chooses Career Over Marriage, Sets A New #WorldRecord!","Visually Impaired Malayalam Singer Chooses Career Over Marriage, Sets A New World Record!",0.59999999996,1,0,false_negative,other
+813220333335511044,She documented her fight against #ovariancancer on @instagram,"As Ovarian Cancer Destroys Her Body, This Female Bodybuilder Is Instagramming Her Battle",0.3999999999799999,0,1,false_positive,other
+858460992073863168,Inside North Korea's secret prisons,"Inside Kim Jong-un's camps of death: Former North Korean female guard reveals the horrors she saw in secret prisons where thousands face being starved, beaten, raped and butchered",0.3999999999799999,0,1,false_positive,other
+825206845480505344,How the Trump administration keeps bungling social media,How the New White House Keeps Bungling Social Media,0.3999999999799999,0,1,false_positive,other
+850958962522566656,ADPVoice: 3 ways to equalize the treatment of women in the workplace,ADPVoice: 3 Ways To Equalize The Treatment Of Women In The Workplace,0.3999999999599999,0,1,false_positive,listicle
+821156446461116416,A clever browser extension helps you find new library books — on Amazon,Clever Browser Extension Helps You Find New Library Books — On Amazon,0.59999999998,1,0,false_negative,direct_address
+815626899103842308,Taking on your calendar could be the most important move you make in 2017:,"Change Your Calendar, Change Your Life",0.59999999998,0,1,false_positive,direct_address
+817576775890898944,Keep your head cool all night long with a new startup's pillow pad,Startup's pillow pad aims keep your head cool while you sleep,0.33333333332,0,1,false_positive,direct_address
+818637995167412224,How did alleged Fort Lauderdale airport shooter get his gun back from Anchorage police?,Why did alleged Ft. Lauderdale airport shooter get gun back from police?,0.66666666662,1,0,false_negative,rhetorical_question
+843236677413994496,'Beauty and the Beast' in VR? Actually kind of incredible,'Beauty and the Beast' in VR delivers Disney magic you can touch,0.66666666662,1,0,false_negative,rhetorical_question
+852364543204495361,"The chain collision of Pepsi, United and Sean Spicer fail — in one meme","The chain collision of Pepsi, United and Sean Spicer fail — in one meme",0.3999999999599999,0,1,false_positive,other
+841931365268504578,Family in hilarious BBC interview speak out about viral experience @KellyCobiella reports for @NBCNightlyNews,NBC NewsVerifizierter Account,0.1999999999799999,0,1,false_positive,other
+825788612088299524,How to enable Wi-Fi calling for perfect cell service,Pogue’s Basics: Enable Wi-Fi calling for perfect cell service,0.46666666664,0,1,false_positive,other
+858245872802349057,.@Google's #SundarPichai's salary will make you super jealous!,$200 Million! That Is How Much Google Paid As Salary To CEO Sundar Pichai Last Year,0.3999999999799999,0,1,false_positive,direct_address
+837067431550017540,A miracle baby has become the youngest to survive major abdominal surgery,Miracle baby becomes youngest to survive major abdominal surgery,0.3999999999799999,0,1,false_positive,other
+813854733282766849,Watch this car effortlessly drift and move side-to-side,Watch this car effortlessly drift and move side-to-side,0.59999999998,0,1,false_positive,curiosity_gap
+805028432035934208,"After a toddler accidentally shot and killed his older sister, a family’s wounds run deep","After a toddler accidentally shot and killed his older sister, a family’s wounds run deep",0.53333333328,1,0,false_negative,other
+810264551467941889,"The old ""I can do more than deliver lines other people write for me!"" canard:",Michael Sheen Leaving Hollywood to Fight Rise of Populism (Update),0.73333333332,1,0,false_negative,other
+842374977802391553,Why Trump's budget may not be going anywhere  via @NBCFirstRead,Trump’s Budget — and Much of His Agenda — Is Still Stuck in the Mud,0.46666666664,0,1,false_positive,curiosity_gap
+844018783907921920,Man filmed his shooting death by sheriff's deputy on Facebook live,Man Filmed His Shooting Death by Sheriff's Deputy On Facebook Live,0.8,1,0,false_negative,other
+819251025571958784,"1. Clemson
+2. Alabama
+3-25: ? 
+
+Final college football Power Rankings:",Final 2016-17 Power Rankings settle all the debates,0.66666666662,1,0,false_negative,rhetorical_question
+810181677268041732,All you need to know about tonight's #StrictlyComeDancing live final,Strictly Come Dancing 2016: Everything to know about the live final,0.2,0,1,false_positive,direct_address
+838185978388967425,Travellers reveal Europe’s most overrated attractions,'You're treated like cattle at the Vatican and Stonehenge is just a pile of rocks': Travellers reveal Europe’s most overrated attractions,0.3999999999799999,0,1,false_positive,other
+831163531747696640,This gay man responded to a cruel tweet about him in the best way,This Gay Man Responded To A Cruel Tweet About Him In The Best Way,0.33333333332,0,1,false_positive,curiosity_gap
+858453552892694528,We spoke with the guy who recreated hip-hop album covers for his graduation photos.,This Student Perfectly Recreated Hip-Hop Album Covers for His Graduation Photos,0.1999999999799999,0,1,false_positive,other
+826515658099810304,"After promotions, managers must learn to shift gears","After Promotions, Managers Must Learn to Shift Gears ",0.3999999999599999,1,0,false_negative,other
+852984482755862528,What will it take to break the two-hour #marathon?,The two-hour marathon: What will it take to break the elusive barrier?,0.5333333333,0,1,false_positive,rhetorical_question
+833000659951706112,Bill Gates: Pathogen could kill 30m in a year,Bill Gates: Pathogen could kill 30m in a year,0.66666666666,1,0,false_negative,other
+848316552474656772,Opinion: What is the most efficient thing you — just one concerned person — can do about global warming?,What You Can Do About Climate Change ,0.3333333333,0,1,false_positive,rhetorical_question
+839858037804384256,WikiLeaks is about to publish a huge set of cyber weapons for anyone to use,"WikiLeaks to make CIA cyber weapons publicly available online, Julian Assange says",0.3333333333,0,1,false_positive,other
+830038744484950016,Can you tell how many zebras are in this photograph? You'll need to look very closely...,Stares and stripes: Can you tell how many zebras are in this photograph? You'll need to look very closely...,0.46666666664,0,1,false_positive,rhetorical_question
+814138852701073408,How many hours should a salaried employee work?,How Many Hours Should A Salaried Employee Work?,0.46666666666,0,1,false_positive,rhetorical_question
+842199155594407936,WorldStarHipHop founder Lee “Q” O’Denat's cause of death has been revealed.,WorldStarHipHop Founder Lee “Q” O’Denat's Cause of Death Revealed,0.66666666664,1,0,false_negative,other
+843779155749670912,An inside look at 9 months spent on Trump's campaign:,An Inside View From Nine Months On The Campaign Trail With President Trump,0.3999999999599999,1,0,false_negative,other
+829434322008420353,McDonald's cashier's act of kindness toward a boy with autism is an inspiration,McDonald's Cashier's Act Of Kindness Toward A Boy With Autism Is An Inspiration,0.7333333333,1,0,false_negative,other
+820379714355220480,Ben Affleck's description of his Live By Night sex scenes will leave you very confused,Live by Night: Ben Affleck's description of film's sex scenes will leave you scratching your head,0.3999999999799999,0,1,false_positive,direct_address
+853371022615220224,The curious case of the billion-dollar lithium mine that sold on the cheap,Curious Case of Billion-Dollar Lithium Mine Sold for a Song,0.4666666666199999,0,1,false_positive,other
+815077564582653952,"#Spain’s capital, #Madrid, is for the first time going to try the #OddEven scheme",Madrid Turns To Odd-Even Scheme For The First Time To Deal With High Levels Of Pollution,0.26666666664,0,1,false_positive,other
+816001117679194112,Unsecured car falls off back of moving ferry into water,Unsecured car falls off back of moving ferry into water,0.3999999999599999,1,0,false_negative,other
+841516316901150720,I went to Turkey to interview the president -- and got a meeting with a conspiracy theorist,I Went To Turkey To Interview The President And (Almost) All I Got Was A Meeting With A Conspiracy Theorist,0.13333333332,0,1,false_positive,other
+820656006279659521,Watch Tina Fey as Felicity Jones' only hope in #SNL opening monologue,Watch Tina Fey as Felicity Jones' Only Hope in 'SNL' Opening Monologue,0.59999999996,1,0,false_negative,other
+818526013437149185,The best cure for a cough may actually be chocolate,The Best Cure for a Cough May Actually Be Chocolate,0.3333333333,0,1,false_positive,other
+842061101286207488,"Opinion: Yes, President Trump is being held accountable","Yes, Trump Is Being Held Accountable ",0.53333333332,1,0,false_negative,other
+827546172839624704,First jobs report of the new administration.,"Economy Gains 227,000 Jobs in January Under President Trump",0.66666666664,1,0,false_negative,other
+842332114150400001,"5 things for Thursday: 
+
+- Travel ban
+- Yahoo hack
+- Trump budget
+- Syria's bloody civil war 
+- The Netherlands","5 things for Thursday, March 16: Travel ban, Yahoo hack, Trump budget, Syria",0.66666666664,1,0,false_negative,listicle
+838947315020877825,No receipts for your taxes? Might not be a problem,No Receipts For Your Taxes Or IRS? No Problem,0.3333333333,0,1,false_positive,rhetorical_question
+833297255310450688,How can we take the Trump administration seriously when it can't even spell good?,How Can We Take The Trump Administration Seriously When It Can't Even Spell?,0.5333333333,1,0,false_negative,rhetorical_question
+810253744923361280,Fish with a penis on its head filmed for first time,Bizarre deep-sea ghost shark caught on camera for first time,0.7333333333,1,0,false_negative,other
+817181536843919360,"It helps to reduce the ‘wear and tear’ on #DNA
+#HealthMeUp","Adding A Bit Of Zinc In Your Diet Can Help Keep Infections At Bay, Says A New Study",0.3333333333,0,1,false_positive,other
+828728984439500801,How the $27 billion in federal funding for sanctuary cities is distributed:,Mapping $27 Billion In Federal Funding Of America's Sanctuary Cities,0.59999999998,1,0,false_negative,other
+808087745889505281,This is how Democrats plan to approach Trump's cabinet picks,Democrats Hope Trump's Cabinet Picks Will Stand in Their Own Way,0.5333333333,1,0,false_negative,curiosity_gap
+853749872998182913,"You may take your shoes off out of courtesy, but should you do it to avoid germs, too?",Is it Healthier to Remove Your Shoes at Home?,0.3999999999799999,0,1,false_positive,rhetorical_question
+857647139127558144,This Beyoncé menu meme is the funniest thing you’ll see all day,This Beyoncé Menu Meme Is The Funniest Thing You'll See All Day,0.26666666666,0,1,false_positive,curiosity_gap
+858395165085630467,"A teenager asked for prom money back from his ex, so she gave it all back in pennies.",Teen Gets Sweet Revenge on Ex Who Dumped Her a Week Before Prom,0.26666666666,0,1,false_positive,other
+824695452968873989,World's most passionate chef? Chinese cook breaks into disco dance while making a dish,Is this the most passionate chef you've seen? Chinese cook breaks into disco dance while making a dish with just ONE noodle,0.26666666664,0,1,false_positive,rhetorical_question
+823605623631790081,"We rely on the government for lots of data. What happens to that in the era of ""alternative facts""?",We rely on the government for lots of data. What happens to that in the Trump era of “alternative facts”?,0.53333333332,0,1,false_positive,rhetorical_question
+834384766698917888,One of the world's most hotly #debated subjects is that of #pineapplepizzas! What team are you on?,"Iceland's President Says He Would Gladly Ban Pineapple Pizzas If He Could, Starts An Online Row",0.3999999999599999,0,1,false_positive,rhetorical_question
+821741597561864192,25 children have been selected for the revered #ICCW #NationalBraveryAwards,25 Children Have Been Selected From Across India For The Revered National Bravery Awards,0.5333333333,1,0,false_negative,listicle
+847217715093716992,"STEM enrolments hit 20-year low, but #scientists have an idea to stop the slide","STEM enrolments hit 20-year low, but scientists have an idea to stop the slide",0.46666666664,0,1,false_positive,other
+805940946747715585,Trans activist whose epic Trump rant went viral speaks out,Trans Activist Whose Epic Trump Rant Went Viral Speaks Out,0.1999999999799999,0,1,false_positive,other
+824474536498302977,"For those thinking otherwise, all's well between #Raees @iamsrk and #Kaabil @iHrithik","Stop Pitting Them Against Each Other, All's Well Between 'Raees' SRK And 'Kaabil' Hrithik!",0.4666666666199999,1,0,false_negative,other
+822779529752035328,Are you taking part in protests against the Trump administration? Tell us why,Why are you protesting the Trump administration?,0.3999999999799999,0,1,false_positive,rhetorical_question
+832786820593119234,"Arnold Schwarzenegger threw major shade at Nickelback, and they hit back",Arnold Schwarzenegger Negged Nickelback and They Hit Back,0.59999999994,1,0,false_negative,other
+823587831192973316,Mystery deepens over world's biggest explosion 110 years ago in Russia,Mystery deepens over world's biggest explosion 110 years ago in Russia as experts 'debunk proof' that blast the size of 185 Hiroshima bombs felt in the UK and US was caused by a meteorite,0.5333333333,1,0,false_negative,other
+812816167735803905,Thousands of women told us why they kept or changed their last names when they married,"‘I Didn’t Want to Lose My Identity’: 16,000 Readers Reflect on Their Surnames ",0.5333333333,0,1,false_positive,curiosity_gap
+816595918933856256,How to make a British business sound 'hip' – add the word Brooklyn,How to make a British business sound 'hip' – add the word Brooklyn,0.7999999999599999,1,0,false_negative,other
+809186311894630400,#TheVoice crowns season 11 winner,'The Voice' Crowns Season 11 Winner,0.59999999996,1,0,false_negative,other
+855043478895693825,Pot Power List: The music industry players fueling the reefer revolution,Pot Power List: The Music Industry Players Fueling the Reefer Revolution,0.3999999999599999,0,1,false_positive,other
+817800976207777792,This puppy striking a pose in front of a dog statue is too pure for this world,This Puppy Striking A Pose In Front Of A Dog Statue Is Leaving People Shook,0.06666666666,0,1,false_positive,curiosity_gap
+833558311689736192,#TheWalkingDead just gave us the reunion we've been waiting for:,'The Walking Dead' recap: Rick makes a new best friend in episode 10,0.26666666664,0,1,false_positive,other
+854700438788222976,Here's what it's like to use a computer in North Korea,Here's what it's like to use a computer in North Korea,0.26666666664,0,1,false_positive,curiosity_gap
+823595879240179712,Brothers jailed for trafficking people from Poland to work at Sports Direct,Brothers jailed for trafficking people from Poland to work at Sports Direct,0.3999999999599999,1,0,false_negative,other
+814805552442249216,Animated map reveals the most popular pizza chains in every state,Animated map reveals the most popular pizza chains in every state,0.59999999996,1,0,false_negative,other
+811227990206058496,Samantha Bee and Glenn Beck discover they might have something in common,Samantha Bee and Glenn Beck discover they might have something in common,0.3999999999599999,0,1,false_positive,other
+823797470455009280,A Series of Unfortunate Events exclusive: Count Olaf reveals all in a hilarious new interview,A Series of Unfortunate Events: Count Olaf reveals all in a hilarious new interview,0.33333333332,0,1,false_positive,other
+839999767031762944,These theaters have playgrounds because everyone loves loud kids at movies,These theaters have playgrounds because everyone loves loud kids at movies,0.46666666664,0,1,false_positive,curiosity_gap
+832357068220739584,Aaron Gordon's dunk contest secrets. #BRmag,Aaron Gordon Is the Picasso of the Slam Dunk Contest,0.3999999999599999,0,1,false_positive,other
+827417572526157825,Would you want your child to marry someone from a different political party?,A Measure of Identity: Are You Wedded to Your Party? ,0.26666666664,0,1,false_positive,rhetorical_question
+821220512361807872,How the Hubble Space Telescope changed the Universe:,How The Hubble Space Telescope Changed The Universe,0.5333333333,1,0,false_negative,other
+832631575175012352,Snapchat just released a 35-min video explaining why they're worth $20B,Snapchat just released a 35-minute video about itself,0.3999999999599999,1,0,false_negative,curiosity_gap
+808298237362864128,WATCH LIVE: #GoldenGlobes nominations announced,Watch Live: Golden Globes Nominees Revealed,0.4,0,1,false_positive,other
+815962023582375936,"How to remove streaks from your screen, smudges from your mouse and grime from your keyboard—in three simple steps","An Easy Way to Deep Clean Your Keyboard, Mouse and Monitor (No More Excuses!)",0.3999999999799999,0,1,false_positive,direct_address
+858000277802278912,The big sneaker brands turned down Lonzo Ball and it's not a surprise:,The Big Sneaker Brands Turned Down Lonzo Ball and It's Not a Surprise,0.46666666664,0,1,false_positive,other
+816774302498484225,In pictures,One man's search for diamonds,0.3999999999799999,0,1,false_positive,other
+816332088609796096,I bought a comfortable desk chair and it was one of the best purchases I made last year,"I bought a comfortable desk chair, and it was one of the best purchases I made last year",0.5333333333,0,1,false_positive,other
+856090132918697984,The woman who explained 'why women still can't have it' explains how priorities change,The woman famous for explaining 'why women still can't have it' perfectly explains how anyone's priorities can change,0.3999999999799999,0,1,false_positive,curiosity_gap
+837073420927950849,42 borderline genius Ikea upgrades that only look expensive,42 Borderline Genius Ikea Upgrades That Only Look Expensive,0.33333333332,0,1,false_positive,listicle
+854685906342752256,‘Paedophile hunters’ scrap Facebook Live stings after police warning,‘Paedophile hunters’ scrap Facebook Live stings after police warning,0.4666666666199999,1,0,false_negative,other
+848480128216838144,Britain's 20 greatest landscapes,Destinations Britain's 20 greatest landscapes,0.33333333332,0,1,false_positive,other
+842678998115258368,"Everyone loves Bernie Sanders. Except, it seems, the Democratic party | Trevor Timm","Everyone loves Bernie Sanders. Except, it seems, the Democratic party",0.53333333328,1,0,false_negative,other
+830993679703736320,Here’s one industry where the U.S. is already catching China—fertilizers,Here’s One Industry Where the U.S. Is Already Catching China—Fertilizers ,0.1999999999799999,0,1,false_positive,other
+840946740249415680,Here's how much millionaires would save under the GOP Obamacare repeal bill,Here's how much millionaires would save under GOP Obamacare repeal bill,0.59999999996,1,0,false_negative,other
+839886043918778373,Retail chains are floundering and it's not because of Amazon,Retail chains are floundering and it's not because of Amazon,0.59999999998,1,0,false_negative,other
+838122685737676801,NFL prospect missed out on winning an island because he wore Nike instead of adidas.,NFL Prospect Missed Out on Winning an Island Because He Wore Nike Cleats Instead of adidas,0.66666666664,1,0,false_negative,other
+808381432783634432,GOP’s hunt for new Trump donors drove millions to low-profile firm,GOP’s hunt for new Trump donors drove millions to low-profile firm,0.46666666664,1,0,false_negative,other
+837498487935741952,Remy Ma releases another Nicki Minaj diss track and Twitter EXPLODES:,Remy Ma Released Another Nicki Minaj Diss Track and Twitter Blew Up,0.46666666664,1,0,false_negative,other
+821545929601912832,Betty White and other celebs crushing it over 90,Betty White and Other Celebs Crushing it Over 90 [Video],0.3333333333,0,1,false_positive,other
+855917932014186496,"After biking for 7 years straight, who wouldn't want to hug their mom?",Man returns home to overjoyed mom after biking around the world for 7 years,0.3999999999599999,0,1,false_positive,rhetorical_question
+820825339584712704,"Shhh! Bad thoughts! Russia, Nazis, KKK, those are the GOOD thoughts.","Zoe Saldana: Trump Won Because Hollywood ‘Got Cocky, Became Arrogant Bullies’",0.53333333332,0,1,false_positive,other
+824273179673849856,"“If I do not tie #Amrika up, she will either run away, get raped or come under a bus,” her mother Savita says","Amrika Is Mentally Challenged, Poor And Lives Chained To A Crate Of Stones, But The Govt Has No Idea Of Her Existence",0.5333333333,1,0,false_negative,other
+842360582309330944,A Kansas lawmaker just compared Planned Parenthood to a Nazi death camp,A Kansas lawmaker just compared Planned Parenthood to a Nazi death camp,0.7333333332799999,1,0,false_negative,other
+815694362399096833,'Russia should reinstate monarchy and appoint PUTIN as royal emperor',"Russia should reinstate the monarchy and appoint PUTIN as royal emperor, says influential Moscow churchman ",0.66666666664,1,0,false_negative,other
+834353294394916864,An 'honest' Oscar voter has some very hot takes on this year's nominees,First 'honest' Oscar ballot is in: 'I hated Arrival - it just sucked',0.3999999999799999,0,1,false_positive,curiosity_gap
+856226449312940032,College student killed in freak accident during track and field event,Freshman killed during hammer throw while volunteering at Wheaton College track and field event,0.53333333328,1,0,false_negative,other
+806513795933802496,"The story of #JJayalalithaa’s coffin maker 
+#ThisIsIt",Jayalalithaa’s Coffin Maker Has Made More Than 500 VIP Caskets Including Former PM And Film Stars,0.26666666664,0,1,false_positive,curiosity_gap
+852944030044491776,Victoria's Secret announced its list of 'What Is Sexy' and it's the worst,Victoria's Secret announced its list of 'What Is Sexy' and it's the worst,0.3333333333,0,1,false_positive,curiosity_gap
+820087263795302400,We counted how many times J.J. Watt was shown on camera in last week's game...despite not actually playing football,J.J. Watt Is the Biggest Star on the Field—Even When Not Technically on the Field,0.26666666666,0,1,false_positive,other
+824902601451778048,How to call 5 lawmakers in just 5 minutes,Call 5 Lawmakers In 5 Minutes To Demand Action With This New Website,0.3999999999599999,0,1,false_positive,other
+851225596692766720,Woman snapping selfies on California's highest bridge falls 60 feet,Woman Snapping Selfies On California's Highest Bridge Falls 60 Feet,0.46666666664,1,0,false_negative,other
+819232723109871620,A major 'Breaking Bad' character might show up in Season 3 of 'Better Call Saul',Season 2 of 'Better Call Saul' Might See the Return of a Major 'Breaking Bad' Character,0.46666666664,0,1,false_positive,other
+821620916970987520,Witness the remarkable zen of Russell Crowe's smartphone photography,Please enjoy Russell Crowe's perfectly zen smartphone photography,0.46666666664,1,0,false_negative,other
+856969817093320704,Britain First tried to take down Gary Lineker and he had an incredible response,Britain First tried to take down Gary Lineker and he had an incredible response The list,0.3999999999599999,0,1,false_positive,other
+824583693939441664,Can prefab homes solve UK's housing crisis?,Can prefab homes solve UK's housing crisis?,0.3999999999799999,0,1,false_positive,rhetorical_question
+843175422938439680,"There’s a store making donuts based off of ’90s snacks, because heaven is real","There’s A Store Making Donuts Based Off Of ’90s Snacks, Because Heaven Is Real",0.73333333332,1,0,false_negative,other
+837616064154464257,Watch: #Logan @RealHughJackman has a 'special message' for team #cricket #India against #Australia!,Watch: 'Logan' Hugh Jackman Has A 'Special Message' For Team Cricket India Against Australia!,0.3999999999599999,1,0,false_negative,other
+831200473613008902,These are the awards that should've been given out at the #Grammys 😂,The Awards That Should've Been Given Out at the 2017 Grammys,0.1999999999799999,0,1,false_positive,curiosity_gap
+857124599988965378,"""Yes, I pelted stones yesterday. But that's not what I want to do."" #Respect 👍","21-Year-Old KashmirI Girl Who Pelted Stones At Police Wants To Play Football For India, Shows Not All Is Lost.",0.59999999998,0,1,false_positive,curiosity_gap
+842779062443696134,"Amgen's new drug prevents heart attacks and strokes, but it's still disappointing experts","Amgen Drug Prevents Heart Attacks, Not Deaths, Disappointing Experts",0.53333333332,1,0,false_negative,other
+841081627912609792,Nicki Minaj and Aretha Franklin are tied for the most Hot 100 songs by a woman,Nicki Minaj And Aretha Franklin Are Now Tied For The Most Hot 100 Songs By A Woman,0.46666666664,1,0,false_negative,other
+833015757978099713,Detectives have found new avenues of work in #politics,"In Maharashtra Civic Polls, Candidates Are Hiring Detectives To Spy On Opponenets",0.53333333332,0,1,false_positive,other
+837174275299807232,Why India may have to wait longer to overtake China as the world's most populous nation,Chinese Baby Bonus May Delay India on Population Title: Chart,0.26666666666,0,1,false_positive,curiosity_gap
+830343857019711488,"""Alcohol, pets and meat products are not allowed in the house,"" an ad reads. ""Neither are Trump supporters.""",Roommates Wanted. Trump Supporters Need Not Apply. ,0.66666666662,1,0,false_negative,other
+850007704114524161,"Hot 100 chart moves: Katy Perry, James Arthur &amp; Lorde hit new heights","Hot 100 Chart Moves: Katy Perry, James Arthur & Lorde Hit New Heights",0.5333333333,1,0,false_negative,other
+814024606923313153,Small airplane seats may soon be a thing of the past,Those brutally small airplane seats may soon be a thing of the past,0.46666666664,0,1,false_positive,other
+813889707142627328,High street shops including are secretly tracking the movements of their customers using their smartphones,High street shops secretly track customers using smartphones ,0.7333333332799999,1,0,false_negative,other
+836393985220427776,Deep thoughts with Mika Br🅱e🅱inski,Brzezinski: Is Trump Admin ‘Trying to Create a Dictatorship?’,0.73333333332,1,0,false_negative,other
+850581547753320448,In this #hardhitting video marine biologists remove a piece of #straw from a #turtle's nose with painstaking efforts,Plastic Straws Are Destroying Our Environment And Here's Why We Need To Stop Using Them,0.3999999999799999,0,1,false_positive,curiosity_gap
+853888313459126273,The search widens for the Facebook murder suspect,Search Widens for Facebook Murder Suspect,0.06666666666,0,1,false_positive,other
+820817538552594432,New Yorker cover imagines the childishness of a Trump presidency,New Yorker Cover Imagines The Childishness Of A Donald Trump Presidency,0.53333333328,1,0,false_negative,other
+834904173728661504,CHINAH share video for 'Even Love' - premiere,CHINAH share video for 'Even Love' - premiere,0.59999999996,1,0,false_negative,other
+834239193828167684,They want nothing else.,Sheriff Clarke on Leftist Violence: ‘It’s Going to Get Cops Killed’,0.59999999998,0,1,false_positive,other
+825347694113746944,"Skier accidentally flies off a 152-foot cliff, but walks away without injury","Skier Accidentally Flies Off A 152-Foot Cliff, Somehow Survives",0.59999999998,1,0,false_negative,other
+812318161056006149,Producer fired after porn star 'assaulted during rape scene',Nikki Benz: Brazzers porn producer fired after porn star claims she was assaulted during 'rape' scene,0.3999999999599999,0,1,false_positive,other
+813765258884026368,Can you identify these global cities from space?,Can You Identify These Major Global Cities From Space?,0.3999999999799999,0,1,false_positive,rhetorical_question
+845124519467503616,"Should ""Fearless Girl"" be left up to stare down the Wall Street bull forever?",Should 'Fearless Girl' stare down the Wall Street bull forever?,0.26666666664,0,1,false_positive,rhetorical_question
+846034429986422784,Fan reportedly dies during live WWE event.,Fan Reportedly Dies During Live WWE Event,0.33333333332,0,1,false_positive,other
+851268596550385664,"""It wasn't a foul on my sixth foul."" – LeBron James",Cavaliers express frustration at officials after 26-point meltdown,0.4666666666199999,1,0,false_negative,other
+808683013374693378,"For reasons that are not entirely clear, Kanye West just showed up at Trump Tower.",Kanye West Just Showed Up at Trump Tower for a Meeting,0.06666666666,0,1,false_positive,other
+819311846901551105,"Who’s No. 1? 
+
+B/R's top 30 shooting guards at the halfway point.
+
+Rankings:",NBA Player Power Rankings: B/R's Top 30 Shooting Guards at the Halfway Point,0.59999999996,1,0,false_negative,rhetorical_question
+834797429673361409,Warren Buffet could be about to buy an entire airline,Warren Buffet could be about to buy an entire airline,0.46666666664,0,1,false_positive,other
+850400281963757569,So the (basically) official Arthur Twitter just called out John Legend,So The (Basically) Official Arthur Twitter Just Called Out John Legend,0.66666666664,1,0,false_negative,other
+816471806487961602,#ICYMI: Top #entertainment news from yesterday,"Hrithik's Subtle Hint About ZNMD's Sequel, Salman-Akshay-KJo's Collaboration & More From Ent!",0.46666666664,0,1,false_positive,other
+807428358015451136,When filming 'Rogue One' took a kind of NSFW turn,Rogue groin? When filming a 'Star Wars' movie went kind of NSFW,0.66666666662,1,0,false_negative,other
+819980170639515648,Someone found an old TV show with a con man named Trump who wanted to build a wall,Someone Found An Old TV Show With A Con Man Named Trump Who Wanted To Build A Wall,0.3999999999799999,0,1,false_positive,other
+842953265113452544,"Opinion: Ignore the snobs. Drink the cheap, delicious wine.","Ignore the Snobs, Drink the Cheap, Delicious Wine ",0.26666666664,0,1,false_positive,other
+857622032481230849,Former ESPN employee Colin Cowherd makes grim prediction about company's future,Ex-ESPN Employee Colin Cowherd Makes Grim Prediction About Company's Future,0.3999999999599999,0,1,false_positive,other
+850463207630266369,"Padres fans, you might want to stay away.
+
+But everyone else, come on in ...",A reason for hope for (almost) every team,0.7999999999599999,1,0,false_negative,direct_address
+838066834263982082,"13 things to know about this week's charts: Michael Jackson's ""Thriller"" is all-time No. 1 R&amp;B/hip-hop album",13 Things to Know About the Charts This Week: Michael Jackson's 'Thriller' Is All-Time No. 1 R&B/Hip-Hop Album,0.46666666664,1,0,false_negative,listicle
+822892881086214144,.@SallieKrawcheck offers her advice on what women can do to succeed,Lean In Isn't Working. Now What?,0.59999999998,1,0,false_negative,curiosity_gap
+824521357690077184,Are baby carrots as nutritious as other carrots?,Are Baby Carrots as Healthful as Other Carrots? ,0.53333333328,1,0,false_negative,rhetorical_question
+804180781694390272,"Visit Myanmar’s stunning capital now, while the streets are still empty",Visit Myanmar’s Capital Now! There’s Still a Lot Not to See,0.59999999996,1,0,false_negative,other
+853631602433380352,Take a look at the 10 hottest cars that debuted at the New York International Auto Show,Best in Show: 10 to Check Out at the New York Auto Show,0.46666666666,0,1,false_positive,other
+810595458938765312,The ten reasons you feel bloated…and how to cure it,The ten reasons you feel bloated: From dairy to bacteria - and even cancer - and how to cure abdominal discomfort,0.59999999998,0,1,false_positive,direct_address
+824151583231528961,Republicans unfazed by controversies surrounding Pres. Trump's controversial cabinet picks.,Republicans Unfazed by Controversies Surrounding Cabinet Nominees ,0.3999999999599999,1,0,false_negative,other
+822735739737673729,BBC News had the wrong subtitles for Donald Trump’s inauguration and it’s amazing,BBC News Used The Wrong Subtitles For Donald Trump’s Inauguration And It’s Glorious,0.13333333332,0,1,false_positive,other
+831628553900945408,Footage shows illuminated UFO hovering over French town,Brightly-lit orange UFO filmed hovering over French coastal town baffles residents,0.3999999999599999,1,0,false_negative,other
+804282388872364032,Gambia has shut down the internet,Gambia election: Government shuts down internet as President Yahya Jammeh faces threat to 22-year rule,0.53333333332,0,1,false_positive,other
+841747494681907200,10 athletes that should have signature sneakers,10 Athletes That Should Have Signature Sneakers,0.53333333332,0,1,false_positive,listicle
+854218919707635712,"Revealed: 100,000 wait more than two weeks to see cancer specialist","Revealed: 100,000 wait more than two weeks to see cancer specialist",0.06666666666,0,1,false_positive,other
+831535758460727296,Storms lash EU,EU split over pace of reform as crisis bites,0.46666666664,1,0,false_negative,other
+810109454523965440,There are two days left to stop Trump. Michael Moore has a message about how to spend them,Michael Moore calls for protests and civil disobedience to stop Donald Trump two days before Electoral College votes,0.59999999998,1,0,false_negative,other
+832720805054160896,A Times reporter visited Mar-a-Lago for the first time. She now sees why Trump is a “fish out of water” in D.C.,My Weekend at Mar-a-Lago: Reporter’s Notebook ,0.4666666666199999,1,0,false_negative,curiosity_gap
+813731966667341825,How Vine Star Hayes Grier Makes His Money Even After the Death of Vine,How Vine Stars Are Thriving Even After The Platforms Death,0.66666666664,1,0,false_negative,other
+855730809969545216,14 things we learned from Caitlyn Jenner's new 20/20 interview,14 Things We Learned From Caitlyn Jenner’s ‘20/20’ Interview [Video],0.33333333332,0,1,false_positive,listicle
+850102272742662148,Will you dominate this week's quiz to become a news wizard? (Pic: Reuters/Warner Bros),ABC News quiz: How much have you retained?,0.33333333332,0,1,false_positive,rhetorical_question
+805806301490069506,driving to work this Monday morning like,Dad Shares Hilarious Photo Of 1-Year-Old Daughter On 'Frozen' Ride,0.1999999999799999,0,1,false_positive,curiosity_gap
+835812051259899905,This guy perfectly recreated his Disney photo with Minnie Mouse decades later,This Guy Perfectly Recreated His Disney Photo With Minnie Mouse Decades Later,0.3999999999799999,0,1,false_positive,curiosity_gap
+827720844478644224,"The reason why synthetic marijuana, sometimes called K2 or Spice, is not safe:","Why synthetic marijuana like K2 or Spice can cause ""really bizarre"" symptoms",0.26666666664,0,1,false_positive,curiosity_gap
+835802131395391488,Stormzy: Gang Signs &amp; Prayer review – London’s new grime lord,Stormzy: Gang Signs & Prayer review – London’s new grime lord,0.4666666666199999,1,0,false_negative,other
+814119254492585984,Here's why people love these @LLBean boots that sell out every winter,Here's what makes L.L.Bean's '100% satisfaction guarantee' the best return policy of any retailer,0.5333333333,0,1,false_positive,curiosity_gap
+828823365276282880,This EpiPen alternative costs just $10,The EpiPen Alternative That Costs Just $10,0.26666666666,0,1,false_positive,curiosity_gap
+812981515919433728,Gut bacteria might be the secret to treating autoimmune disease,The Secret To Treating Autoimmune Disease May Lie In The Gut,0.2,0,1,false_positive,other
+834890803218546690,Canada has no chill about this pineapple on pizza business,Canada Has No Chill About This Pineapple On Pizza Business,0.5333333333,0,1,false_positive,curiosity_gap
+804691057770450944,"""Oddly, this seems to be the thing that our fellow conservatives have found most offensive about Milo: his jokes.""",An Establishment Conservative’s Guide to MILO,0.3333333333,0,1,false_positive,curiosity_gap
+820810247329685504,Are Carmelo Anthony's days with the Knicks coming to an end?,Are Carmelo Anthony's Days With the Knicks Coming to an End?,0.4666666666199999,1,0,false_negative,rhetorical_question
+836374159026335744,36 backstage photos from the 2017 Academy Awards,36 Backstage Photos From The 2017 Academy Awards,0.33333333332,0,1,false_positive,listicle
+838148279984619523,This stunningly racist French novel is how Steve Bannon explains the world,This Stunningly Racist French Novel Is How Steve Bannon Explains The World,0.46666666664,0,1,false_positive,curiosity_gap
+836576695985516544,Massachusetts is the most educated state in America in 2017. See the top 10 here:,The Most -- And Least -- Educated States In The U.S. In 2017,0.59999999998,1,0,false_negative,other
+828044992719503362,The promising new Vanessa Hudgens show ‘Powerless’ is missing this one key ingredient,The promising new Vanessa Hudgens show ‘Powerless’ is missing this one key ingredient,0.3999999999599999,0,1,false_positive,curiosity_gap
+841330542670938113,6 of Rihanna's coziest looks from her #FentyxPuma line,6 of Rihanna's Coziest Looks From Her Fenty x Puma Line,0.46666666664,0,1,false_positive,listicle
+826022151434141696,What does the U.S. import from Mexico? A whole lot,What does the U.S. import from Mexico? A whole lot,0.59999999998,1,0,false_negative,rhetorical_question
+829493134769999872,"Can't wait for all the apologies from people pushing Robert Reich's ""false flag"" theory!",FBI Investigating Identities of Violent UC Berkeley Rioters,0.3333333333,0,1,false_positive,other
+818410050716889088,The moment Emma Stone 'surgically eviscerated' Ryan Seacrest over his red carpet question,Golden Globes 2017: Emma Stone tolerates Ryan Seacrest question about her dress,0.66666666664,1,0,false_negative,other
+827328014606282752,"11 revealing answers DeVos gave to Democratic senators’ questions about vouchers, Common Core and more","11 revealing answers DeVos gave to Democratic senators’ questions about vouchers, Common Core and more",0.59999999998,0,1,false_positive,listicle
+831441349106868224,Multivitamins a waste of money and just create 'very expensive urine',Multivitamins a waste of money and just create 'very expensive urine',0.1999999999799999,0,1,false_positive,other
+821869561259716608,"Are we getting an ""iPhone X"" this year?",The iPhone X: Coming in 2017?,0.66666666662,1,0,false_negative,rhetorical_question
+848466289374920706,"9 habits of highly successful people, from a man who spent 5 years studying them","9 habits of highly successful people, from a man who spent 5 years studying them",0.3999999999599999,0,1,false_positive,listicle
+827628752431611904,An on-the-ground look at the deadly surge of violence in eastern Ukraine,‘Everything is destroyed’: A deadly surge of violence strikes eastern Ukraine,0.6,1,0,false_negative,other
+839249587823132673,Amazing five-year-old becomes the sole carer of her grandma and great-grandma,The five-year-old pillar of the family: Little girl becomes the sole carer of her grandma and great-grandma after her father was jailed and her mother remarried,0.13333333332,0,1,false_positive,other
+831133532286308353,Katy Perry joked about Britney Spears' mental health and people are furious,Grammy Awards 2017: Katy Perry sparks backlash over Britney Spears mental health jibes,0.3333333333,0,1,false_positive,other
+850189140494880768,How urban transportation and planning can unlock the future of accessibility,Getting Around: How Urban Transportation And Planning Unlock The Future Of Accessibility,0.26666666664,0,1,false_positive,other
+825141097814953985,Dad of the year turns sons' drawings into professional pieces of art,Super talented dad transforms his sons' drawings into beautiful artwork,0.59999999998,1,0,false_negative,other
+847903855677452288,How to get along with your new college graduate,How to Get Along With Your New College Graduate,0.4666666666199999,0,1,false_positive,direct_address
+813840672490983424,Cop whose house burned down gets Christmas surprise from Randy Travis.,Cop Whose House Burned Down Gets Christmas Surprise From Randy Travis  Insider,0.59999999996,1,0,false_negative,other
+827776512359354368,"Aarhus, Denmark: what to see, plus the best restaurants, bars and hotels","Aarhus, Denmark: what to see, plus the best restaurants, bars and hotels",0.59999999996,1,0,false_negative,curiosity_gap
+817153897643077636,Donald Trump just threatened Toyota — but it looks like he got the facts wrong,Donald Trump just threatened Toyota — but it looks like he got the facts wrong,0.33333333332,0,1,false_positive,other
+820120054163456001,Your favorite food can tell you about what your money's worth,Your Favorite Food Can Tell You About What Your Money's Worth,0.3999999999799999,0,1,false_positive,direct_address
+805452860003479552,Someone is writing agony aunt columns in the voice of Nigel Farage - and it's terrifyingly brilliant,Someone is writing agony aunt columns in the voice of Nigel Farage - and it's terrifyingly brilliant The list,0.46666666664,0,1,false_positive,other
+838167206009659393,"Pizza dipped in milk is a crime against pizza, humanity",Pizza dipped in milk is the most disrespectful pizza crime yet,0.53333333332,1,0,false_negative,other
+835601094210285570,The internet is freaking out over Remy Ma's savage Nicki Minaj diss track.,The Internet Is Freaking Out Over Remy Ma's Savage Nicki Minaj Diss Track,0.4666666666199999,1,0,false_negative,other
+835456813734719488,"All the things Labour have blamed the Copeland by-election loss on, other than Jeremy Corbyn","All the things Labour have blamed the Copeland by-election loss on, other than Jeremy Corbyn The list",0.3999999999799999,0,1,false_positive,other
+839548723701157889,Several players took to social media to recognize Nowitzki's historic milestone:,"Current and former players congratulate Dirk Nowitzki on reaching 30,000 career points",0.5333333333,1,0,false_negative,other
+831768263843528705,How past presidents reacted to #SNL political impressions  via @YahooNews,‘Saturday Night Live’ political impressions [Video],0.33333333332,0,1,false_positive,other
+810404474573492224,A thank you note to the buildings that appealed to NYC's better self,The Best Architecture in New York of 2016 ,0.59999999996,1,0,false_negative,direct_address
+846463247528144896,The Cubs’ Theo Epstein had a home run response to getting named the ‘world’s greatest leader’,The Cubs’ Theo Epstein had a home run response to getting named the ‘world’s greatest leader’,0.53333333332,1,0,false_negative,other
+806808486319443968,A real life RED SKULL: Venezuelan father transforms into supervillain,The real life RED SKULL: Venezuelan father has his nose removed and his entire head tattooed to look like Captain America's arch-enemy ,0.3999999999799999,0,1,false_positive,other
+848891453103366144,Rick and Morty: how the world's most ingenious animation punk'd its fans,Rick and Morty: how the world's most ingenious animation punk'd its fans,0.46666666664,1,0,false_negative,other
+826201331480272896,Quebec suspect faces murder charges,Quebec mosque attack: Student Alexandre Bissonnette charged,0.59999999996,1,0,false_negative,other
+847745127254601728,Prison officers acted unlawfully in restraining inmate who later died,Prison officers acted unlawfully in restraining inmate who later died,0.66666666662,1,0,false_negative,other
+849755030295126016,This artificial leaf makes fertilizer just using sunlight and air,Bionic Leaf Makes Fertilizer From Sunlight And Air,0.59999999996,1,0,false_negative,curiosity_gap
+820150538700554240,PM @narendramodi is not easy to impress!,"Unhappy With Officials' Presentation On Development Works, PM Modi Walks Out Of The Meeting Midway",0.5333333333,1,0,false_negative,other
+820283017247727616,A father confused liquid nicotine for medicine — and gave his 6-year-old a toxic dose,A father confused liquid nicotine for medicine — and gave his 6-year-old a toxic dose,0.26666666666,0,1,false_positive,other
+820767785257148416,New Obama/Biden memes are here to help you survive inauguration week,New Obama/Biden memes are here to help you survive inauguration week,0.66666666666,1,0,false_negative,direct_address
+835181354006392832,.@narendramodi unveils the biggest #Shiva bust in the world #MahaShivaratri,On Maha Shivaratri PM Modi Inaugurates 112- Feet Tall Adiyogi Statue!,0.53333333332,1,0,false_negative,other
+855021493067100160,How to cash in on your old tech gadgets  via @YahooFinance,How to cash in on your old tech gadgets,0.59999999998,0,1,false_positive,direct_address
+855793568102973440,Simple advice from 27 teenagers for what we should do for Earth Day:,I Asked Teens For Advice For Earth Day And What They Said Gives Us Hope,0.46666666664,0,1,false_positive,curiosity_gap
+855141773827592197,"This 4/20, you can catch a buzz with the latest trend: the cannabis cocktail","This 4/20, Catch A Buzz With A Cannabis Cocktail",0.66666666664,1,0,false_negative,direct_address
+839030211752636416,Stephen Hawking says Jeremy Corbyn is disastrous for Labour,Stephen Hawking: Jeremy Corbyn is a disaster for Labour,0.5333333333,1,0,false_negative,other
+815084954962956288,What an engaging picture of @imVkohli and @AnushkaSharma!,"Amul Does It Again, Gives A Most 'Engaging' Twist To Virat-Anushka's Engagement Rumor!",0.79999999998,1,0,false_negative,curiosity_gap
+816782519450398720,The best economic forecasters lay out their calls for 2017,Best Economic Forecasters Lay Out 2017 Calls,0.3333333333,0,1,false_positive,other
+823566144145620994,16 of the best signs from Women's Marches,16 of the best signs from Women's Marches ,0.59999999998,0,1,false_positive,listicle
+804134698729385984,Oh Jeff… #bruh,Los Angeles Rams Jeff Fisher May Think Danny Woodhead Still Plays for the Patriots,0.13333333332,0,1,false_positive,other
+823282346652790784,Massive protests target Trump’s agenda,Hundreds of Thousands of Demonstrators Attend Women’s March on Washington,0.59999999996,1,0,false_negative,other
+827106552180043777,J.K. Rowling has the perfect response to Trump trolls burning her books,J.K. Rowling has the perfect response to Trump trolls burning her books,0.3999999999799999,0,1,false_positive,other
+846780503898439680,"Why Nicki wouldn't let Kanye appear on ""Right Thru Me"" even though he begged","Here's Why Nicki Wouldn't Let Kanye Appear on ""Right Thru Me"" Even Though He Begged",0.3333333333,0,1,false_positive,curiosity_gap
+849189801702158336,A teenage girl was told she can't bring her girlfriend to prom and the internet is furious,A teenage girl was told she can't bring her girlfriend to prom and the internet is furious The list,0.5333333333,0,1,false_positive,other
+836798691168104448,"Trump was caught practicing his speech, so the internet made jokes","Trump was caught practicing his speech, so the internet made jokes",0.59999999996,1,0,false_negative,other
+828280526616145921,A contestant on The Jump has already been forced to quit after being injured during training,The Jump 2017 claims first casualty as Vogue Williams forced to quit,0.26666666666,0,1,false_positive,other
+823554002080112642,"Woman slashed Trump sign in Florida because it 'ruined her chill,' cops say","Woman slashed Trump sign in Florida because it 'ruined her chill,' cops say ",0.5333333333,1,0,false_negative,other
+858335642648023041,"EPA's main climate science site is down for 'review,' and you should be worried  #climatemarch",Trump's big EPA website change should make you furious,0.59999999996,1,0,false_negative,direct_address
+830052822502821888,Has the 12th Dead Sea Scrolls cave been found?,Has the 12th Dead Sea Scrolls cave been found? Excavators discover a new site they believe was once home to the ancient religious writings ,0.59999999998,1,0,false_negative,rhetorical_question
+827116684326686720,"This Goldman fund manager is ignoring Trump ""noise"" to bet on the U.S. dollar",Goldman Fund Manager Ignores Trump Noise to Bet on Dollar,0.3999999999799999,0,1,false_positive,curiosity_gap
+850456678118117377,Foot Locker responds to allegations of a shady 'Royal Jordan 1s' release caught on video,Foot Locker Responds to Allegations of Shady Sneaker Release,0.5333333333,1,0,false_negative,other
+816725403217891332,"At least for now, the short bursts of radio waves don’t appear to be communications from an alien civilization","Radio Bursts Traced to Faraway Galaxy, but Caller Is Probably ‘Ordinary Physics’ ",0.79999999998,1,0,false_negative,other
+832104640095330304,"#Parliament could limit your #wedding expenses to ₹5 lakh, dishes served at ceremony",Austerity At The Big Fat Indian Wedding? Bill Seeks To Limit The Spending To Rs 5 Lakh Introduced In Lok Sabha,0.5333333333,1,0,false_negative,direct_address
+847893761329815552,"'Putting it bluntly madam, you are sex mad,' judge tells woman jailed for group sex with underage boys","'Putting it bluntly madam, you are sex mad,' judge tells woman jailed for group sex with underage boys",0.3999999999799999,0,1,false_positive,direct_address
+838396212734746625,Here's how the US military is sticking it to Beijing in the South China Sea,Here's how the US military is sticking it to Beijing in the South China Sea,0.79999999998,1,0,false_negative,other
+821809569512980480,#Grammy producer of the year nominee @Nineteen85 reveals stories behind Drake's smashes,Grammy Producer of the Year Nominee Nineteen85 Reveals Stories Behind Drake's Smashes,0.26666666666,0,1,false_positive,other
+840008324267593728,This was no ordinary flower pot holding up the tulips in an English garden,A Roman Sarcophagus Is Rescued from Humble Duty as a Flower Pot ,0.66666666666,1,0,false_negative,curiosity_gap
+813423522257182720,"Parents apparently overdose at home, baby daughter starves to death days later","Parents Apparently Overdose At Home, Baby Daughter Starves To Death Days Later",0.0,0,1,false_positive,other
+820798831323443200,Will 'masala' bonds spice up the Indian economy?,Will 'masala' bonds spice up the Indian economy?,0.59999999994,1,0,false_negative,rhetorical_question
+837361911985496065,How #Coachella gained Lady Gaga after losing Beyonce,How Coachella Gained Lady Gaga After Losing Beyonce,0.59999999996,1,0,false_negative,other
+822733931078361088,Champagne and Guy Fawkes masks: An inauguration party for Donald Trump in Russia,Champagne and Guy Fawkes masks: An inauguration party for Donald Trump in Russia,0.4666666666199999,1,0,false_negative,other
+806221944253255681,Putin's 50ft underwater 'robot' that can imitate any submarine in the world,"Putin's 50ft underwater 'robot' that can imitate any submarine in the world and carry out 600-mile spying missions 1,800ft below the surface",0.5333333333,1,0,false_negative,other
+818117561590157312,Reminder that Chrissy Teigen and John Legend have the cutest baby of all time,Reminder That Chrissy Teigen And John Legend Have The Cutest Baby Of All Time,0.13333333332,0,1,false_positive,other
+827521525641158656,The Jump 2017 has already had a casualty,The Jump 2017 claims first casualty as Vogue Williams forced to quit,0.46666666664,0,1,false_positive,other
+838862631456935937,"We talked to local teachers about their biggest threats, including Betsy Devos:",What Does Betsy DeVos Mean for Chicago Public Schools?,0.46666666664,0,1,false_positive,other
+826930614112702464,"Bad Lip Reading is back!
+
+🎥:",Bad Lip Reading Nails It Again with Look Back at 2016 NFL Season,0.66666666662,1,0,false_negative,other
+836887994351120385,Six takeaways from Trump's address to Congress,6 takeaways from Trump's address to Congress,0.53333333332,1,0,false_negative,other
+825024956949995520,BBC Question Time audience member pulls off bizarre thumb trick #bbcqt,BBC Question Time audience member pulls off bizarre thumb trick,0.46666666664,0,1,false_positive,other
+851906457738018817,"21 breathtaking photos of dogs, but from underneath","21 Breathtaking Photos Of Dogs, But From Underneath",0.46666666664,0,1,false_positive,listicle
+830779909928841219,"The world finally has a vaccine that could end cholera, one of history’s great scourges. But will we do it?",Turning the Tide Against Cholera ,0.46666666664,0,1,false_positive,rhetorical_question
+830215759460724737,How skiing is going green in Chamonix,How skiing is going green in Chamonix,0.53333333332,0,1,false_positive,other
+838535853999800321,"1,500 people, 2 elevators and 500 tons of luggage -- here's how the Saudi king travels","1,500 people, 2 elevators and 500 tons of luggage -- here's how the Saudi king travels",0.59999999996,1,0,false_negative,other
+824774513820835841,Apollo I disaster: How three astronauts died on Earth,Apollo I disaster: How three astronauts died on Earth,0.26666666664,0,1,false_positive,other
+810338551871242240,.@JimmyFallon reads his favorite #CrappyHolidays tweets,Watch The Tonight Show Starring Jimmy Fallon Season 4 Episode 57 Excerpt Free Online - Hashtags: #CrappyHolidays | Yahoo View,0.26666666664,0,1,false_positive,other
+851473459469307905,Wait... are Quavo &amp; Karrueche dating? 🤔,"Wait, Are Quavo and Karrueche Dating?",0.66666666664,1,0,false_negative,rhetorical_question
+812730847552008192,Why the holiday shopping season is losing some of its power,Why the Holiday Shopping Season Is Losing Some of Its Power,0.33333333332,0,1,false_positive,curiosity_gap
+843740653720928256,Target sends powerful message with bikini ads  via @YahooStyle,Model Reveals Cellulite in Target's Newest Swimsuit Campaign,0.59999999998,1,0,false_negative,other
+832137444359282688,Could a planet like Coruscant from Star Wars exist?,Could A Planet Like Coruscant Exist?,0.5333333333,1,0,false_negative,rhetorical_question
+841313904844242944,"""Can you tell me with a straight face that a forty-man tactical assault team... wouldn’t take that place down?""",EXCLUSIVE: Former Secret Service Agent Warns Trump ‘Not Secure’ in the White House,0.3999999999799999,0,1,false_positive,rhetorical_question
+809685946560036864,The Carpool Karaoke Christmas special comes with a glorious festive twist,The Carpool Karaoke Christmas special comes with a glorious festive twist,0.7333333332799999,1,0,false_negative,other
+853306949579833345,"Don't call it a ""Tesla killer"" — but the Lucid electric car might be just that",Don’t Call It a ‘Tesla Killer’ — But the Lucid Electric Car Might Be Exactly That,0.5333333333,1,0,false_negative,other
+815054629553590272,"The 22 most beautiful buildings in the world, according to architects","The 22 most beautiful buildings in the world, according to architects",0.59999999998,0,1,false_positive,other
+834473486924001284,Here come the Fed minutes...,Here come the Fed minutes ...,0.4666666666199999,1,0,false_negative,other
+839710090492010496,CenturyLinkVoice: Operational excellence: By the book,CenturyLinkVoice: Operational Excellence: By the Book,0.1999999999799999,0,1,false_positive,other
+807880190235910144,So you’ve been unlucky in love. That’s no excuse to be jaded.,So you’ve been unlucky in love. That’s no excuse to be jaded.,0.1999999999799999,0,1,false_positive,other
+814284576528928768,New on @Medium: Why every generation feels entitled,Why every generation feels entitled,0.53333333332,0,1,false_positive,curiosity_gap
+809113486643068928,Um.,Loyola Prof Calls Cops on Student Wearing His Police Uniform,0.53333333332,0,1,false_positive,other
+834092928935030790,"Rumor has it @1future's dropping ANOTHER album this week. 
+
+Does this dude ever sleep?",Unconfirmed Internet Rumor Suggests Future Is Dropping Another New Album This Week,0.1999999999799999,0,1,false_positive,rhetorical_question
+823712016632348673,Here are all of Ed Sheeran's videos: Vote for your favorite,Here Are All of Ed Sheeran's Videos: Vote for Your Favorite,0.53333333328,1,0,false_negative,direct_address
+844541728174542848,"Who is affected by the new flight restriction on devices, and what should you do?",What Travelers Should Know About New Restrictions on Devices ,0.26666666666,0,1,false_positive,rhetorical_question
+812529223533522944,"""To have a SpongeBob stare into your soul every day is pretty amazing.""",Pete Wentz and His D.I.Y.-Inspired Art Collection ,0.3333333333,0,1,false_positive,direct_address
+809940965117005824,Brutal survival show is trying really hard to be like 'Hunger Games',Wild Siberian survival reality show sounds a lot like 'Hunger Games',0.46666666664,1,0,false_negative,other
+827889911256719361,Are you paying too much for your tax prep? Check this chart,Are You Paying Too Much for Your Tax Prep?,0.13333333332,0,1,false_positive,rhetorical_question
+812572227526868992,After Jo Cox: the unsung MPs quietly making Britain better,After Jo Cox: the unsung MPs quietly making Britain better,0.1999999999799999,0,1,false_positive,other
+804364802940436480,Draymond Green can lock anyone up,Golden St Warriors Draymond Green Ensuring the Warriors Defense Remains Dangerous,0.1999999999799999,0,1,false_positive,other
+846300813018451970,Renters outnumber owners in half of U.S. cities,Renters Now Rule Half of U.S. Cities,0.53333333332,1,0,false_negative,other
+858034079983325185,A new festival backed by A-list celebrities has descended into absolute chaos,Fyre Festival in chaos after fans who paid thousands for tickets report scenes 'like a disaster zone',0.5333333333,0,1,false_positive,other
+825312744396189696,Female Dutch doctor drugged a patient's coffee then asked her family to hold her down as she fought not to be killed,Female Dutch doctor drugged a patient's coffee then asked her family to hold her down as she fought not to be killed - but did not break the country's euthanasia laws,0.46666666664,1,0,false_negative,other
+825727706838990848,A mercy plea in this priest's murder case came from a very unlikely source,Mercy plea in priest's murder case comes from unlikely source: the victim,0.26666666664,0,1,false_positive,curiosity_gap
+818908986267357186,"Move over, Riley.
+
+Stephen Curry has found a new postgame press conference star 😬",Stephen Curry Pokes Fun at Daughter Riley's Postgame Antics on 'Family Guy',0.4666666666199999,1,0,false_negative,other
+828682787385442304,"These brothers were forced out by Trump’s executive order. On Monday, they moved to the U.S.","These brothers were forced out by Trump’s executive order. On Monday, they moved to the U.S.",0.66666666664,1,0,false_negative,curiosity_gap
+818147944088174592,These were the @USArmy's best pictures from 2016,The most incredible photos of the US Army in 2016,0.46666666664,0,1,false_positive,curiosity_gap
+835542131024474113,Couple keeps pregnancy a secret for 9 months,"Couple keeps pregnancy a secret for 9 months, surprises grandma - Yahoo",0.2,0,1,false_positive,other
+836665430240444416,"Good vino paired with awesome vapes, as explained by sommelier Michael Madrigale and Joe Dominique. #ad",PROMO: Pairing Good Vino With VUSE VIBE,0.13333333332,0,1,false_positive,other
+834439124748759043,Horrifying cat image generator turns your doodles into super weird pictures,Horrifying image generator turns your doodles into super weird cat pics,0.26666666664,0,1,false_positive,direct_address
+854995842859749376,Crush the saboteurs! How hard-Brexit rhetoric turned Leninist,Crush the saboteurs! How hard-Brexit rhetoric turned Leninist,0.46666666666,0,1,false_positive,other
+839884802761306112,"This crazy, expensive stock market is for speculators, not investors: Streetwise","This Crazy, Expensive Stock Market Is for Speculators, Not Investors ",0.66666666664,1,0,false_negative,curiosity_gap
+821777173908439041,Mom blasted for encouraging toddler to pole dance in viral video,Mom Blasted for Encouraging Toddler to Pole Dance in Disturbing Video,0.5333333333,1,0,false_negative,other
+819574710015037440,Meet the robonauts: NASA's humanoid robots,Meet the robonauts: NASA's humanoid robots,0.46666666664,1,0,false_negative,other
+814233245877420032,A single shot at the doctor's office may be the future of HIV prevention  via @NBCOUT,Single Shot at Doctor’s Office May Be Future of HIV Prevention,0.3333333333,0,1,false_positive,other
+821889933191315458,"""If I was a different complexion, I think people and fans would treat me a different way.""",Tyron Woodley: Race a factor in status as 'worst-treated' UFC champ,0.66666666664,1,0,false_negative,other
+842060367677251584,WhatsApp just did a U-turn on its biggest change in years,"WhatsApp makes U-turn on 'Status' feature, rolling back its biggest recent update",0.59999999994,1,0,false_negative,curiosity_gap
+838485772500074496,This girl celebrated the iconic way she came out and it’s perfect,This Girl Celebrated The Iconic Way She Came Out And It’s Perfect,0.3999999999799999,0,1,false_positive,curiosity_gap
+814101348274749441,12 simple foil packet dinners you can bake in the oven,12 Oven-Baked Foil Packet Dinners To Try,0.59999999998,0,1,false_positive,listicle
+809138748495630336,Here are the top 10 songs of 2016,Here are the top 11 songs of 2016,0.3333333333,0,1,false_positive,other
+820198330189971456,The world's elite will be in Davos next week. But they keep getting things wrong,Davos Wonders If It’s Part of the Problem,0.53333333332,0,1,false_positive,other
+808329305252069376,The top 50 video games of all time — RANKED,"The top 50 video games of all time, ranked",0.5333333333,0,1,false_positive,other
+837415487525044224,"Take it from @edsheeran, don't drink and golf.",Ed Sheeran Reveals He Once Got Drunk and Smashed Justin Bieber in the Face with a Golf Club,0.3333333333,0,1,false_positive,other
+842899768342921216,"""Whatever we, as individuals, may feel... the President’s decision was well within the powers of the presidency.""",Appeals Court Judges Explain Why Donald Trump’s Immigration Order is Legal,0.59999999996,1,0,false_negative,curiosity_gap
+810983054714007552,Worried about your holiday spending? It doesn't have to get out of control:,6 Holiday Finance Tips To Help Manage Your Seasonal Spending,0.5333333333,0,1,false_positive,rhetorical_question
+832407381279637505,"“Because her own family comes from India and she has very good English, she has been involved in refugee aid.”",Nigerian Migrant Arrested for Stabbing Female ‘Refugee Helper’ to Death,0.46666666664,0,1,false_positive,other
+818049615329107969,Do you live in one of the world's most creative cities?,The World's Most Creative Cities [Infographic],0.59999999998,0,1,false_positive,rhetorical_question
+808013375921909761,This is  the cutest thing you'll see all Christmas,Dieses Video ist nicht verfügbar. This cat loves Christmas so much,0.4,0,1,false_positive,direct_address
+810311645226475520,A look at celebrities and their Christmas trees,Celebrities and Their Christmas Trees: 2016 Edition,0.5333333333,1,0,false_negative,other
+842818082246705152,"Airbnb guests TRASH home with a party, leaving faeces on the floor",Airbnb guests from hell: Lodgers trash three-bedroom home with alcohol-fuelled party destroying furniture and leaving faeces on the floor,0.46666666664,0,1,false_positive,other
+847039052163485696,What will happen to the economy now Article 50 has been triggered,Article 50: What will happen to the economy now Theresa May has started Brexit?,0.26666666666,0,1,false_positive,curiosity_gap
+828910830053908480,10 things in tech you need to know today  by @BIUK,10 things in tech you need to know today,0.53333333332,0,1,false_positive,listicle
+836735239284219904,'You didn't even go in hard': The day a dad ruined junior football,'You didn't even go in hard': The day a dad ruined junior football,0.46666666664,0,1,false_positive,other
+804856711622328321,Why a recent report claiming declining global temperatures is based on incomplete data and incorrect conclusions,"News Report on Global Temperatures Is Wrong, Scientists Say ",0.3999999999799999,0,1,false_positive,curiosity_gap
+819550487175426050,"""Should designers dress Melania and Ivanka? The question is more complex than it seems.""",Should designers dress Melania and Ivanka? The question is more complex than it seems.,0.4,0,1,false_positive,rhetorical_question
+837400385849552896,George W. Bush spills the beans on his unlikely friendship with Michelle Obama,George W. Bush Breaks Down His Affection for Michelle Obama: ‘We Just Took to Each Other’,0.26666666666,0,1,false_positive,other
+851479993016356864,Musical talent definitely runs in these families🎶 #NationalSiblingsDay,It Runs in the Family: Musical Siblings Who Rock,0.46666666664,0,1,false_positive,curiosity_gap
+840630152488923137,8 completely brilliant women who literally saved our asses,8 Women You Had No Idea Saved Your Ass,0.53333333332,0,1,false_positive,listicle
+847707535490600960,UK mom says she learned on Facebook that her daughter died,UK mom says she learned on Facebook that her daughter died ,0.59999999998,1,0,false_negative,other
+810924897513836544,"Here are the 12 best memes of 2016, by month","Here Are The 12 Best Memes Of 2016, By Month",0.33333333332,0,1,false_positive,other
+841274837410676736,A growing number of analysts say the iPhone 8 won't feature a curved screen after all,A growing number of analysts are dismissing the iPhone 8 curved display rumours,0.73333333332,1,0,false_negative,other
+810657925295439872,Airfare to these cities is expected to drop in 2017,Airfare to these cities is expected to drop in 2017,0.59999999998,0,1,false_positive,curiosity_gap
+829903146205982720,The world's oldest bank is stuck with vineyards that nobody wants to buy,The World’s Oldest Bank Is Stuck With Beautiful Tuscan Villas It Can’t Sell,0.66666666666,1,0,false_negative,other
+834719970936369156,"""Whether you agree or not, I felt it was a duty to play with the president when you get the call""",A Tee Time With Trump? Pro Golfers Say Absolutely ,0.6,1,0,false_negative,direct_address
+856294777612009473,Florida teen dons Black Lives Matter prom dress  #FOXNewsUS,Florida teen dons Black Lives Matter prom dress ,0.53333333332,1,0,false_negative,other
+820989235226431488,Will any of the core features of Obamacare survive?,"'Repealing And Replacing' Obamacare: Whatever You Do, Preserve Medicare Part D And Fill The Donut Hole",0.5333333333,0,1,false_positive,rhetorical_question
+807244386744602625,MEET THE YOUTUBE MILLIONAIRES: These are the highest-paid YouTube stars of 2016,MEET THE YOUTUBE MILLIONAIRES: These are the highest-paid YouTube stars of 2016,0.3333333333,0,1,false_positive,curiosity_gap
+810255763990085632,"They are the disrupters, the dealmakers, the loyalists, the establishment and the generals",Outsiders Selected by Trump Aim to Unnerve Washington ,0.26666666664,0,1,false_positive,other
+849324368924749824,"Twenty years on, where is the legacy of Tiger Woods’ defining Masters triumph?  via @guardian_sport","Twenty years on, where is the legacy of Tiger Woods’ defining Masters triumph?",0.5333333333,1,0,false_negative,rhetorical_question
+828038201864495105,This campaign asks women to grow body hair for antiviolence awareness,Campaign Asks Women to Grow Body Hair for Antiviolence Awareness,0.5333333333,1,0,false_negative,curiosity_gap
+816052957523439617,Why minivans are the perfect vehicles to usher in the era of self-driving cars:,The Much-Maligned Minivan Is The Perfect Vehicle To Usher In The Era Of Self-Driving Cars,0.7333333333,1,0,false_negative,curiosity_gap
+819602947759886337,Here's why maple syrup jugs have teeny tiny handles,Here's why maple syrup jugs have teeny tiny handles,0.46666666664,0,1,false_positive,curiosity_gap
+838337928589889536,Elderly resident unaccounted for after Dallas condo fire,Elderly resident unaccounted for after Dallas condo fire ,0.46666666664,1,0,false_negative,other
+837104114244833280,It’s time to talk about “One Tree Hill” and the worst character on the show,"It’s Time To Talk About ""One Tree Hill"" And The Worst Character On The Show",0.13333333332,0,1,false_positive,other
+812700817522364417,NFL POWER RANKINGS: Where all 32 teams stand heading into Week 16,NFL POWER RANKINGS: Where all 32 teams stand heading into Week 16,0.53333333332,1,0,false_negative,other
+841670519950835712,Saudi officials mocked online for launching girls' council WITHOUT ANY GIRLS,Spot the females: Saudi officials are mocked online for launching a girls' council WITHOUT ANY GIRLS (who were kept out of sight in another room),0.46666666664,1,0,false_negative,other
+817747639177478144,"She was angry she always lost. So this woman threatened to kill lottery officials, police say.","She was angry she always lost. So this woman threatened to kill lottery officials, police say.",0.46666666664,0,1,false_positive,curiosity_gap
+813126890043023360,Time can't heal wounds of 95yo #Japanese war veteran,Pearl Harbor: Wounds of war still hurt for 95yo Japanese veteran,0.59999999998,1,0,false_negative,other
+837926505569107968,#Shaktimaan will be back soon! :D,"Mukesh Khanna Just Dropped A Major Hint About Shaktimaan's Comeback On TV And Yes, We're Excited!",0.5333333333,1,0,false_negative,other
+842344750804008960,Rachel Maddow's Trump tax report proves a comedy gold mine for late night TV hosts,Rachel Maddow's Trump Tax Report Proves A Comedy Gold Mine For Late Night TV Hosts,0.46666666664,1,0,false_negative,other
+814810459744468992,Here's why China bulls could be facing a grim New Year’s eve,Singapore Defaults Seen as Bellwether for 2017 Asia Distress,0.53333333332,0,1,false_positive,curiosity_gap
+852972227863523328,This photo of Jeremy Corbyn in a train toilet has become a meme,This photo of Jeremy Corbyn in a train toilet has become a meme The list,0.3999999999599999,0,1,false_positive,curiosity_gap
+808054687513673728,How the music industry is trying to get older listeners to pay for streaming,Getting 50-Somethings to Pay for Streaming Music,0.46666666664,0,1,false_positive,other
+837183212749225985,#DronePhotography is the next big thing!,16 Of The World's Best Photographs Prove That Drone Photography Is The Next Big Thing!,0.3333333333,0,1,false_positive,other
+807378601100328960,These holiday cards are perfect gifts for the typography fan.,These festive holiday cards are perfect for the typography enthusiast,0.3999999999599999,0,1,false_positive,curiosity_gap
+825495421665554436,What immigrants need to know about Trump's order,What immigrants need to know about Trump's order,0.7333333333,1,0,false_negative,curiosity_gap
+815991970950774788,MUST-SEE VIDEO: Car Slides Off Edge of Moving Ferry into Open Waters,MUST-SEE: Car Slides Off Edge of Moving Ferry into Open Waters  Insider,1.0,1,0,false_negative,other
+817902050453364741,Carrie Fisher’s urn is a giant Prozac pill  via @YahooCelebrity,Carrie Fisher’s Urn Is a Giant Prozac Pill,0.3999999999599999,1,0,false_negative,other
+842239133942730752,A woman from #Texas set up a simple Facebook page and gave a homeless man a new lease of life #RealPeopleRealStories,Woman Helps Man Abandoned By His Mother Reclaim Life After Being Homeless For 3 Years,0.66666666664,1,0,false_negative,other
+816698733610074116,This Mannequin Challenge expertly shows the need for a Parkinson's cure,This Mannequin Challenge expertly shows the need for a Parkinson's cure,0.3999999999799999,0,1,false_positive,curiosity_gap
+805535797436882944,THE IRONY METER KEEPS EXPANDING ITS UPPER LIMIT,Behar: Hillary Supporters Are ‘Sore Losers’ — Trump Didn’t Win ‘Legitimately’,0.79999999998,1,0,false_negative,other
+805434494186561536,"""I know what it’s like to care for a son with microcephaly. My child is 53 years old.""",I know what it’s like to care for a son with microcephaly. My child is 53 years old.,0.26666666666,0,1,false_positive,curiosity_gap
+813660986301358080,#Dangal girls #Fatima and #Sanya's dancing videos will give you a glimpse of their crazy side!,'Dangal' Girls Fatima And Sanya's Dancing Videos Will Give You A Glimpse Of Their Crazy Side!,0.86666666664,1,0,false_negative,direct_address
+812659354767855616,"Hell of schoolgirl, 13, living in Yemen's 'forgotten conflict' revealed","Hell of schoolgirl living in Yemen's 'forgotten conflict' revealed: Amal, 13, crawls in the dark to avoid snipers and is haunted by the horror of seeing her teacher blown up in a missile strike ",0.13333333332,0,1,false_positive,other
+807850405950607360,There's a new reason to be optimistic about life after Brexit,How to Be Optimistic About a Post-Brexit Britain,0.3999999999599999,0,1,false_positive,other
+813947607424843779,"The penny cost more to make than it’s worth, again","The Penny Cost More to Make Than It’s Worth, Again",0.06666666666,0,1,false_positive,other
+847675604241596416,Pres. Trump says he needs to know Melania's secret for improving poll numbers,Trump says he needs to know Melania's secret for improving poll numbers,0.13333333332,0,1,false_positive,other
+833338419715653632,Trump: 'I'm only worried he's gonna give me a kiss',Trump: 'I'm only worried he's gonna give me a kiss',0.66666666664,1,0,false_negative,other
+810360484545314816,Stephen Colbert bashes Trump and Nixon at same time in one glorious bit,Stephen Colbert Bashes Trump And Nixon At Same Time In One Glorious Bit,0.46666666664,0,1,false_positive,other
+818735442832986113,'Creepy' photo collage gets Martin Shkreli suspended from Twitter,'Creepy' photo collage gets Martin Shkreli suspended from Twitter ,0.66666666664,1,0,false_negative,other
+832585645642092544,Jack Dorsey has two explanations for Twitter's user growth problem:,Jack Dorsey: Twitter Lacked 'Focus And Discipline' For Growth,0.46666666664,0,1,false_positive,other
+839449373301858309,How are you marking International Women's Day?,How are you marking International Women's Day?,0.26666666666,0,1,false_positive,rhetorical_question
+848824940929445888,All for the love of #SwachhBharat. @narendramodi,A Wedding Invitation With The Swachh Bharat Logo Leaves PM Narendra Modi Impressed,0.53333333328,1,0,false_negative,other
+819342810964955136,GOP lawmaker suffers medical emergency near House floor,GOP lawmaker suffers medical emergency near House floor,0.66666666664,1,0,false_negative,other
+826721757222596608,13 comics that get you if you’re just having a rough time,13 Comics That Will Get You If You’re Having A Rough Time,0.3999999999799999,0,1,false_positive,listicle
+830979186273767425,Here are all of the performances at the #Grammys so far,Watch All the Performances at the 2017 Grammys,0.59999999996,1,0,false_negative,other
+847087200919404544,This London Underground advert is causing a massive sexism row,This London Underground advert is causing a massive sexism row The list,0.53333333332,0,1,false_positive,curiosity_gap
+835404374679646208,"If Trump wants pipes built in America, what does that mean?","If Trump wants the pipes built in America, what does that mean?",0.46666666664,1,0,false_negative,rhetorical_question
+845671651324936192,"Watch Gorillaz debut new ""Humanz"" album in its entirety at secret show",Watch Gorillaz Debut New 'Humanz' Album in Its Entirety at Secret London Show,0.4666666666199999,1,0,false_negative,other
+831804535266037762,We give you more reasons to be proud. #ISRO #WorldRecord #ISROMadeUsProud,5 Things About ISRO’s World Record Launch That Will Make You A Proud Indian,0.53333333328,1,0,false_negative,direct_address
+810151881037189121,Merriam-Webster drags Donald Trump for 'unpresidented' typo in Tweet about China.,Merriam-Webster Drags Donald Trump for 'Unpresidented' Typo in Tweet About China,0.53333333328,1,0,false_negative,other
+842235595195842560,No let-up in Cyprus bird poaching,No let-up in Cyprus bird poaching,0.5333333333,1,0,false_negative,other
+807384854459535361,"Facebook really, really wants you to use Facebook Live",Facebook is super thirsty for your Facebook Lives,0.5333333333,0,1,false_positive,direct_address
+848588088477491205,This woman found her tweenage time capsule from 1998 and it's magical,This Woman’s Time Capsule From When She Was 13 Is So Painfully '90s,0.46666666664,0,1,false_positive,curiosity_gap
+804331396068241408,The VERY exciting life of a globetrotting photographer,From diving with sharks to sleeping with polar bears: The VERY exciting life of a globetrotting photographer,0.5333333333,0,1,false_positive,other
+810499694153580548,"11 clever, untraditional ways people have wrapped gifts this holiday season ⏩ by @lee_moran","11 Clever, Untraditional Ways People Have Wrapped Gifts This Holiday Season",0.26666666666,0,1,false_positive,listicle
+829533028456083456,21 cozy and useful products that will help you survive winter,21 Cozy And Useful Products That Will Help You Survive Winter,0.46666666666,0,1,false_positive,listicle
+841308419055374336,This apartment with a toilet in the kitchen can be yours for just $2K a month,This Might Just Be The Most Truly Disturbing Apartment You’ll Ever See,0.26666666664,0,1,false_positive,curiosity_gap
+821983188113297408,CBS affiliate reignites debunked Pizzagate conspiracy theory,CBS Affiliate Reignites Debunked Pizzagate Conspiracy Theory,0.53333333332,0,1,false_positive,other
+849614604506288128,16 cheat sheets for if you're a foodie but also lazy AF,16 Cheat Sheets For If You're A Foodie But Also Lazy AF,0.3333333333,0,1,false_positive,listicle
+805069338776576000,These are the most valuable NHL franchises:,NHL Valuations 2016,0.66666666664,1,0,false_negative,curiosity_gap
+833291256155533312,"In 2016, Trump criticised Obama for campaigning instead of creating jobs. Guess what Trump was doing this week…","In 2016, Trump criticised Obama for campaigning instead of creating jobs. Guess what Trump was doing this week… The list",0.3999999999599999,0,1,false_positive,curiosity_gap
+841628972639215617,Kid Rock shoots foreign-made grills out of the sky with a shotgun,Let's Watch Kid Rock Shoot Foreign-Made Grills Out of the Sky With a Shotgun  Insider,0.46666666664,1,0,false_negative,other

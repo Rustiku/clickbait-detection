@@ -1,0 +1,29 @@
+{
+  "bert": {
+    "model": "bert-base-uncased",
+    "test_f1": 0.6921501706484642,
+    "test_precision": 0.6688654353562006,
+    "test_recall": 0.7171145685997171,
+    "test_accuracy": 0.8457064659596305,
+    "train_time_sec": 211.1,
+    "n_params_mio": 109.5
+  },
+  "roberta": {
+    "model": "roberta-base",
+    "test_f1": 0.6898907103825137,
+    "test_precision": 0.667107001321004,
+    "test_recall": 0.7142857142857143,
+    "test_accuracy": 0.8446801231611358,
+    "train_time_sec": 255.2,
+    "n_params_mio": 124.6
+  },
+  "modernbert": {
+    "model": "answerdotai/ModernBERT-base",
+    "test_f1": 0.6945024356297843,
+    "test_precision": 0.6835616438356165,
+    "test_recall": 0.7057991513437057,
+    "test_accuracy": 0.8498118371536093,
+    "train_time_sec": 355.7,
+    "n_params_mio": 149.6
+  }
+}

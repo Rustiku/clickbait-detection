@@ -1,0 +1,5 @@
+model,test_precision,test_recall,test_f1,test_accuracy,train_time_sec,n_params_mio
+TF-IDF + LinearSVM (Baseline),0.485,0.617,0.543,0.749,,
+bert-base-uncased,0.669,0.717,0.692,0.846,211.1,109.5
+roberta-base,0.667,0.714,0.69,0.845,255.2,124.6
+answerdotai/ModernBERT-base,0.684,0.706,0.695,0.85,355.7,149.6

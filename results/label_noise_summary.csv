@@ -1,0 +1,4 @@
+modell,fehler_gesamt,fehlerquote_gesamt_%,fehlerquote_grenzbereich_%,fehlerquote_ausserhalb_%,anteil_fehler_im_grenzbereich_%
+bert,451,15.4,44.4,7.7,60.8
+roberta,454,15.5,44.7,7.7,60.8
+modernbert,439,15.0,42.3,7.7,59.5
