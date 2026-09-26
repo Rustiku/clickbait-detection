@@ -1,5 +1,5 @@
 # Clickbait Headline Detection: A Comparative Approach to the
-Automated Classification of Sensationalist Headlines
+# Automated Classification of Sensationalist Headlines
 
 Vergleich klassischer und Transformer-basierter Verfahren zur binären
 Clickbait-Erkennung auf dem Webis-Clickbait-Corpus 2017. Projekt im Rahmen der
