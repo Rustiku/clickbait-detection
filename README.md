@@ -1,4 +1,4 @@
-# Clickbait Headline Detection: A Comparative Approach to the Automated Classification of Sensationalist Headlines
+# Clickbait Headline Detection using BERT and RoBERTa
 
 Vergleich klassischer und Transformer-basierter Verfahren zur binären
 Clickbait-Erkennung auf dem Webis-Clickbait-Corpus 2017. Projekt im Rahmen der
@@ -15,7 +15,7 @@ Hyperparameter) werden verglichen:
 - **Baseline:** TF-IDF + Logistic Regression / lineare SVM
 - **Transformer:** BERT, RoBERTa, ModernBERT (Fine-Tuning)
 
-| Modell | F1 Clickbait (Testset, Seed 42) | F1 mit Streuung |
+| Modell | F1 Clickbait (Testset, Seed 42) | F1 über 3 Seeds |
 |---|---|---|
 | TF-IDF + LogReg | 0,538 | 5-fold CV: 0,536 ± 0,017 |
 | TF-IDF + SVM | 0,543 | 5-fold CV: 0,525 ± 0,020 |
@@ -46,9 +46,16 @@ python src/data_prep.py            # Label-Ableitung, 70/15/15-Split (seed 42) -
 python src/eda.py                  # sprachliche Merkmale nach Klasse
 python src/baseline.py             # TF-IDF-Baselines, Testset
 python src/baseline_cv.py          # 5-fold CV der Baselines
+python src/error_analysis.py       # Fehlerkategorien der Baseline
 python src/transformer_clf.py --seeds 42 1337 2024   # Fine-Tuning (GPU erforderlich)
 python src/label_noise.py          # Fehlerquote nach Annotationsübereinstimmung
 ```
+
+Die Reihenfolge ist bindend: `data_prep.py` erzeugt die Splits, auf denen alles
+Weitere aufsetzt. `label_noise.py` liest die Dateien
+`results/error_analysis_<modell>.csv`; diese entstehen in der Fehleranalyse-Zelle
+des Notebooks (bzw. lassen sich aus den von `transformer_clf.py` geschriebenen
+`results/predictions_*.csv` erzeugen).
 
 Das Fine-Tuning wurde auf Google Colab (NVIDIA Tesla T4) mit dem Notebook
 `notebooks/Clickbait_Transformer_Finetuning.ipynb` durchgeführt; es enthält alle
